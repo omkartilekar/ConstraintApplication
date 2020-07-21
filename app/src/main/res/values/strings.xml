@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConstraintApplication</string>
+    //Initializing array string for Spinner
+    <string-array name="planets_array">
+    <item>10</item>
+    <item>12</item>
+    <item>Diploma</item>
+    <item>Graduate</item>
+    <item>Post Graduate</item>
+</string-array>
+</resources>
